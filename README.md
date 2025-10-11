@@ -14,4 +14,4 @@ Telegram bot + FastAPI backend for tracking the best deals, sales, and crypto dr
 git clone https://github.com/<your-username>/smart-deal-tracker
 cd smart-deal-tracker
 cp .env.example .env
-
+docker-compose up --build
