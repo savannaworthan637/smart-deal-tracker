@@ -9,4 +9,3 @@ app.include_router(users.router)
 @app.get("/")
 def root():
     return {"status": "ok", "message": "Smart Deal Tracker API running"}
-
