@@ -50,6 +50,7 @@
 
 
 
+
 from fastapi import FastAPI
 from routes import deals, users
 
